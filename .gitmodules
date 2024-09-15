@@ -1,18 +1,18 @@
 [submodule "riscv-binutils-gdb"]
 	path = riscv-binutils-gdb
-	url = ../riscv-binutils-gdb.git
+	url = https://sourceware.org/git/binutils-gdb.git
 [submodule "riscv-gcc"]
 	path = riscv-gcc
-	url = ../riscv-gcc.git
+	url = https://gcc.gnu.org/git/gcc.git
 [submodule "riscv-glibc"]
 	path = riscv-glibc
-	url = ../riscv-glibc.git
+	url = https://sourceware.org/git/glibc.git
 [submodule "riscv-dejagnu"]
 	path = riscv-dejagnu
-	url = ../riscv-dejagnu.git
+	url = https://git.savannah.gnu.org/git/dejagnu.git
 [submodule "riscv-newlib"]
 	path = riscv-newlib
-	url = ../riscv-newlib.git
+	url = https://github.com/riscvarchive/riscv-newlib.git
 [submodule "riscv-qemu"]
 	path = riscv-qemu
 	url = https://gitlab.com/qemu-project/qemu.git
